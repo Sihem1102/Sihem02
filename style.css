@@ -1,0 +1,32 @@
+button{
+    padding: 10px 20px;
+    margin: 50px 10px 30px 10px;
+    background-color: rgb(16, 19, 11);
+    border: dashed 2px;
+    margin: 20px;
+    size: 30cm;
+    style
+}
+
+
+.highlight{
+    font-size: ;
+    font-weight: 700;
+
+}
+
+.relative{
+position: relative;
+left: 50%;
+}
+.anotherclass{
+    color: black;
+}
+
+.fseven{
+    font-size: 7e;
+}
+
+#thisisanexampleID{
+    background-color: rgb(101, 225, 230);
+}
